@@ -1,7 +1,7 @@
 JAAT
 ====
 
-JAAT (Just Another Apache Tool) is a tool for monitoring processes in your Apache server(s) in a top-like way. It has been tested for Apache 2.2.x and should work for Apache 2.0.x.
+JAAT (Just Another Apache Top) is a tool for monitoring processes in your Apache server(s) in a top-like way. It has been tested for Apache 2.2.x and should work for Apache 2.0.x.
 
 Features of JAAT
 * Web-based GUI based on PHP
