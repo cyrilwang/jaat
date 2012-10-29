@@ -18,7 +18,7 @@ INSTALLATION
 * Launch your browser (Chrome preferred) and load the page from your management web server.
 
 QUESTIONS AND SUGGESTIONS
-You could reach me at cyril*dot*hcwang*at*gmail*dot*com
+* You could reach me at cyril*dot*hcwang*at*gmail*dot*com
 
-Version History
-2012/10/29     0.1 First Release
+VERSION HISTORY
+* 2012/10/29     0.1 First Release
